@@ -1,37 +1,31 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About me
+tags: [about, Jekyll, theme, moon, me]
+date: 2018-1-23
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://www.xieminye.xyz/"><b>百日梦想家！</b></a> 是我第一个的blog。</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## 爱好
+* 热爱TI,热爱前端。
+* 喜欢读书,特别喜欢看历史类的书，当然技术类型的书也喜欢！！
+* 喜欢篮球,热爱运动。
+* 喜欢音乐,热爱吉他
 
-## Preview
+## 近期
 
 {% capture images %}
     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
     https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="关于我的近期的生活照" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+可以[查看我的github](https://github.com/z6269773) 并关注,给个start就感谢各位看官大爷了.
 
-## Getting Started
+## 工作经理
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+* 目前正在 [上海复医天健医疗服务产业股份有限公司](http://www.fumedtj.com) 任H5前端工程师.
+* 等有时间就更新其他简历。。。。      
+<!-- [Install Moon](https://github.com/TaylanTatli/Moon){: .btn} -->
