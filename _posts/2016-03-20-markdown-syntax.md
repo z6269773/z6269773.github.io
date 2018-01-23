@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Markdown Syntax"
+title:  "Markdown语法"
 date:   2016-03-15
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
 tag:
@@ -12,9 +12,9 @@ tag:
 comments: true
 ---
 
-## HTML Elements
+## HTML元素
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+以下是您需要在blog中进行设计的所有内容。检查源代码以查看段落中的许多嵌入式元素。
 
 # Heading 1
 
@@ -28,32 +28,41 @@ Below is just about everything you'll need to style in the theme. Check the sour
 
 ###### Heading 6
 
-### Body text
+### 主体
 
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
+ 使用`**加粗**`**加粗**.
 
-![Smithsonian Image](https://mmistakes.github.io/minimal-mistakes/images/3953273590_704e3899d5_m.jpg)
+![图片](https://mmistakes.github.io/minimal-mistakes/images/3953273590_704e3899d5_m.jpg)
 {: .image-right}
 
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
+我是天空里的一片云 
+偶尔投影在你的波心 
+你不必讶异 
+更无须欢喜 
+在转瞬间消灭了踪影 
 
-HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
+你我相逢在黑夜的海上 
+你有你的，我有我的，方向 
+你记得也好 
+最好你忘掉 
+在这交会时互放的光亮
 
-### Blockquotes
 
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
+### 引用文字
 
-## List Types
+> 最是那一低头的温柔 像一朵水莲花不胜凉风的娇羞             ——徐志摩 《沙扬娜拉》
 
-### Ordered Lists
+## 列表类型
+
+### 有序列表
 
 1. Item one
    1. sub item one
    2. sub item two
    3. sub item three
-2. Item two
+  2. Item two
 
-### Unordered Lists
+### 无序列表
 
 * Item one
 * Item two
@@ -72,7 +81,7 @@ HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, c
 | Foot1   | Foot2   | Foot3
 {: rules="groups"}
 
-## Code Snippets
+## 代码片段
 
 {% highlight css %}
 #container {
@@ -84,7 +93,7 @@ HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, c
 
 ## Buttons
 
-Make any link standout more when applying the `.btn` class.
+使用 `.btn` class让更多的链接脱颖而出.
 
 {% highlight html %}
 <a href="#" class="btn btn-success">Success Button</a>
@@ -98,7 +107,7 @@ Make any link standout more when applying the `.btn` class.
 
 ## KBD
 
-You can also use `<kbd>` tag for keyboard buttons.
+你可以用 `<kbd>` 用来标识键盘按键.
 
 {% highlight html %}
 <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd>
@@ -106,7 +115,7 @@ You can also use `<kbd>` tag for keyboard buttons.
 
 Press <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> to move your car. **Midtown Maddness!!**
 
-## Notices
+## 通知
 
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
+**Watch out!** 您还可以添加一个段落，以添加通知。 `{: .notice}`
 {: .notice}
