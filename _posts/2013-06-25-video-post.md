@@ -8,10 +8,10 @@ tag:
 - video
 comments: true
 ---
-<iframe width="560" height="315" src="http://player.youku.com/embed/XNjIzNjIwODAw" frameborder="0"> </iframe>
+<iframe width="100%" height="418" src="http://player.youku.com/embed/XNjIzNjIwODAw" frameborder="0"> </iframe>
 
 ONE OK ROCK「Wherever you are」in 2013
 
 {% highlight html %}
-<iframe width="560" height="315" src="http://player.youku.com/embed/XNjIzNjIwODAw" frameborder="0"> </iframe>
+<iframe width="100%" height="418" src="http://player.youku.com/embed/XNjIzNjIwODAw" frameborder="0"> </iframe>
 {% endhighlight %}
