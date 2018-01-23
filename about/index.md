@@ -17,8 +17,6 @@ comments: false
 ## 近期生活
 
 {% capture images %}
-    <!-- http://www.xieminye.xyz/assets/img/aboutme/aboutme1.png -->
-    <!-- http://www.xieminye.xyz/assets/img/aboutme/aboutme2.png -->
     http://www.xieminye.xyz/assets/img/aboutme/aboutme3.png
     http://www.xieminye.xyz/assets/img/aboutme/aboutme4.png
 {% endcapture %}
