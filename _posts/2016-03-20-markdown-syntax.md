@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Markdown语法"
-date:   2016-03-15
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+date:   2018-01-23
+excerpt: "使用markdowm来写你的blog,你就会需要了解到更多......"
 tag:
 - markdown 
 - syntax

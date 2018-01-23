@@ -6,7 +6,7 @@ date: 2018-1-23
 comments: false
 ---
     
-<center><a href="http://www.xieminye.xyz/"><b>百日梦想家！</b></a> 是我第一个的blog。</center>
+<center><a href="http://www.xieminye.xyz/"><b>白日梦想家！</b></a> 是我第一个的blog。</center>
 
 ## 爱好
 * 热爱IT,热爱前端。
