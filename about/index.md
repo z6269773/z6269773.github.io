@@ -17,9 +17,10 @@ comments: false
 ## 近期
 
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-    http://www.xieminye.xyz/assets/img/user.png
+    http://www.xieminye.xyz/assets/img/aboutme/aboutme1.png
+    http://www.xieminye.xyz/assets/img/aboutme/aboutme2.png
+    http://www.xieminye.xyz/assets/img/aboutme/aboutme3.png
+    http://www.xieminye.xyz/assets/img/aboutme/aboutme4.png
 {% endcapture %}
 {% include gallery images=images caption="关于我的近期的生活照" cols=2 %}
 
@@ -30,3 +31,12 @@ comments: false
 * 目前正在 [上海复医天健医疗服务产业股份有限公司](http://www.fumedtj.com) 任H5前端工程师.
 * 等有时间就更新其他简历。。。。      
 <!-- [Install Moon](https://github.com/TaylanTatli/Moon){: .btn} -->
+## 其他
+
+{% capture images %}
+    http://www.xieminye.xyz/assets/img/pay/wechat.png
+    http://www.xieminye.xyz/assets/img/pay/alipay.png
+{% endcapture %}
+{% include gallery images=images caption="扫码向我赞助。" cols=2 %}
+
+如果你在这里有收货的话，请适当的赞助我。谢谢各位了
