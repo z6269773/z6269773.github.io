@@ -14,11 +14,11 @@ comments: false
 * 喜欢篮球,热爱运动。
 * 喜欢音乐,热爱吉他
 
-## 近期
+## 近期生活
 
 {% capture images %}
-    http://www.xieminye.xyz/assets/img/aboutme/aboutme1.png
-    http://www.xieminye.xyz/assets/img/aboutme/aboutme2.png
+    <!-- http://www.xieminye.xyz/assets/img/aboutme/aboutme1.png -->
+    <!-- http://www.xieminye.xyz/assets/img/aboutme/aboutme2.png -->
     http://www.xieminye.xyz/assets/img/aboutme/aboutme3.png
     http://www.xieminye.xyz/assets/img/aboutme/aboutme4.png
 {% endcapture %}
@@ -26,11 +26,12 @@ comments: false
 
 可以[查看我的github](https://github.com/z6269773) 并关注,给个start就感谢各位看官大爷了.
 
-## 工作经理
+## 工作经历
 
 * 目前正在 [上海复医天健医疗服务产业股份有限公司](http://www.fumedtj.com) 任H5前端工程师.
-* 等有时间就更新其他简历。。。。      
+* 等有时间就更新其他简历  
 <!-- [Install Moon](https://github.com/TaylanTatli/Moon){: .btn} -->
+
 ## 赞助我
 
 {% capture images %}
