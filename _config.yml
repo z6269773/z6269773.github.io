@@ -1,14 +1,15 @@
 # Site
 title:              赵巍
-bio:                'Minimal, one column jekyll theme.'
-description:        "到不了的地方就是远方！这是我的第一个blog."
+bio:                '白日梦想家！'
+description:        "到不了的地方就是远方！欢迎来到我的blog."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
+userlogo:           'assets/img/userlogo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://www.xieminye.xyz/
+url:                http://www.xieminye.xyz
 
 # Jekyll
 permalink:          /:title/
@@ -38,24 +39,24 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
+# twitter:            username
+# facebook:           username
 github-url:         z6269773
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+# instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+# steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
 #soundcloud:        username
-#weibo:             username
+weibo:             username
 #flickr:            username
 #codepen:           username
 #keybase:           username
