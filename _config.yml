@@ -5,7 +5,7 @@ description:        "到不了的地方就是远方！欢迎来到我的blog."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-userlogo:           'assets/img/userlogo.png'
+user:               'assets/img/user.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
