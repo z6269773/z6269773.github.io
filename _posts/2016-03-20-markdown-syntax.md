@@ -113,7 +113,7 @@ comments: true
 <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd>
 {% endhighlight %}
 
-Press <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> to move your car. **Midtown Maddness!!**
+例如：使用<kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> 进行移动. **嘻嘻😳!!**
 
 ## 通知
 
