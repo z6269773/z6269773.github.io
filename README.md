@@ -8,4 +8,4 @@
 
 ## 学习更多
 
-你可以访问我的个人blog [白日梦想家](www.xieminye.xyz) ,查看更多文章.
+你可以访问我的个人blog [白日梦想家](http://www.xieminye.xyz) ,查看更多文章.
