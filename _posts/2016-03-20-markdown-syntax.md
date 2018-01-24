@@ -5,7 +5,6 @@ date:   2018-01-23
 excerpt: "使用markdowm来写你的blog,你就会需要了解到更多......"
 tag:
 - markdown 
-- syntax
 - sample
 - test
 - jekyll
