@@ -6,7 +6,7 @@ date: 2018-1-23
 comments: false
 ---
     
-<center><a href="http://www.xieminye.xyz/"><b>白日梦想家！</b></a> 是我第一个的blog。</center>
+<center><a href="http://www.xieminye.com/"><b>白日梦想家！</b></a> 是我第一个的blog。</center>
 
 ## 爱好
 * 热爱IT,热爱前端。
@@ -17,8 +17,8 @@ comments: false
 ## 近期生活
 
 {% capture images %}
-    http://www.xieminye.xyz/assets/img/aboutme/aboutme3.png
-    http://www.xieminye.xyz/assets/img/aboutme/aboutme4.png
+    http://www.xieminye.com/assets/img/aboutme/aboutme3.png
+    http://www.xieminye.com/assets/img/aboutme/aboutme4.png
 {% endcapture %}
 {% include gallery images=images caption="关于我的近期的生活照" cols=2 %}
 
@@ -33,7 +33,7 @@ comments: false
 ## 赞助我
 
 {% capture images %}
-    http://www.xieminye.xyz/assets/img/pay/wechat.png
+    http://www.xieminye.com/assets/img/pay/wechat.png
 {% endcapture %}
 {% include gallery images=images caption="微信扫码向我赞助。" cols=2 %}
 
