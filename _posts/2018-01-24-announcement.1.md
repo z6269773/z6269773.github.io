@@ -4,7 +4,7 @@ title:  "blog完成搭建"
 date:   2018-01-24
 excerpt: "在2018-01-24，我完成github pages个人博客的搭建，以后会在这里更新自己文章......"
 tag:
-- 生活
+- 日记
 comments: true
 ---
 
