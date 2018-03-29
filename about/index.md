@@ -26,7 +26,7 @@ comments: false
 
 ## 工作经历
 
-* 目前正在 [上海复医天健医疗服务产业股份有限公司](http://www.fumedtj.com) 任H5前端工程师.
+* 目前正在 [上海某公司]() 任H5前端工程师.
 * 等有时间就更新其他简历  
 <!-- [Install Moon](https://github.com/TaylanTatli/Moon){: .btn} -->
 
